@@ -1,5 +1,5 @@
 
 Kratek opis Djla:
-Ustvaril sem svoj prvi repozitorij na GitHubu, kjer sem se naučil ustvarjanja in urejanja repozitorija
+Ustvaru sm swj prvi repozitorij na GitHubu, kjr sm se naučil ustvarjanja in urejanja repozitorija
 
 Imam rad vodo.

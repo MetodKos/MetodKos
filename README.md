@@ -1,2 +1,2 @@
 
-Rad imam Vodo
+Pij wado j zdravu
